@@ -1,0 +1,16 @@
+.price-stars {
+  display: flex;
+  justify-content: space-between;
+}
+
+.stars {
+  display: flex;
+}
+
+.price-stars > p {
+  font-size: 30px;
+  font-weight: lighter;
+  margin-top: 4px;
+  text-align: center;
+}
+

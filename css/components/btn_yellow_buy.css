@@ -1,0 +1,22 @@
+.btn-yellow-buy {
+  margin-top: 56px;
+  display: flex;
+  justify-content: center;
+}
+
+.btn-yellow-buy a {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  background-color: #edc32d;
+  border-radius: 50px;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 0.15s;
+  padding: 4px 20px;
+}
+
+.btn-yellow-buy a:hover {
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+  color: #e8e8e8;
+}

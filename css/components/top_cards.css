@@ -1,0 +1,16 @@
+.section {
+  font-size: 12px;
+  font-weight: bolder;
+  margin-bottom: -8px;
+}
+
+.product-name {
+  font-family: "Helvetica";
+  margin-bottom: -12px;
+}
+
+.fabric-store {
+  font-size: 12px;
+  font-weight: lighter;
+  color: #D9D9D9;
+}

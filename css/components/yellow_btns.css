@@ -1,0 +1,10 @@
+.btn-yellow {
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.btn-yellow p {
+  margin: 8px;
+}

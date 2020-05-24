@@ -1,0 +1,21 @@
+.container-right {
+  background-color: #2D2E32;
+  width: 290px;
+  color: white;
+  padding: 30px 35px;
+}
+
+.text-description {
+  font-weight: lighter;
+  font-family: "Open Sans";
+  font-size: 12px;
+  margin-right: 20px;
+}
+
+
+.text-description a {
+  text-decoration: none;
+  color: #edc32d;
+}
+
+

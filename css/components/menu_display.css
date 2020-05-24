@@ -1,0 +1,23 @@
+.menu-display {
+  display: flex;
+  font-weight: lighter;
+  font-size: 14px;
+  justify-content: space-between;
+  margin-right: 30px;
+  color: #727477;
+  border-bottom: 1px solid;
+  border-color: #727477;
+  margin-top: -24px;
+}
+
+.menu-display a {
+  text-decoration: none;
+  color: #727477;
+  transition: 0.15s;
+  margin-bottom: 10px;
+}
+
+
+.menu-display a:hover {
+  color: #edc32d;
+}

@@ -1,0 +1,29 @@
+/* Fonts */
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700");
+@import url("https://use.fontawesome.com/releases/v5.0.10/css/all.css");
+
+/* Components */
+/* @import url("components/name_of_component.css"); */
+
+@import url("components/container_left.css");
+@import url("components/main_container.css");
+@import url("components/container_right.css");
+@import url("components/yellow_btns.css");
+@import url("components/top_cards.css");
+@import url("components/price_stars.css");
+@import url("components/menu_display.css");
+@import url("components/btn_yellow_buy.css");
+
+body {
+  margin: 0;
+  margin-bottom: 100px;
+  font-family: "Open Sans", "Helvetica", "sans-serif";
+}
+.text-center {
+  text-align: center;
+}
+.container {
+  max-width: 900px;
+  margin: 50px auto;
+}
+
